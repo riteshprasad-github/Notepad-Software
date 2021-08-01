@@ -14,8 +14,8 @@ contains the Version  and Creater Name.
 
 This project is made up while learning python course
 
-
-
 setup.py is for py.exe file to convert into Software
+
 BitNote.py is the source code
+
 and necessary icons and images are in the folders given here
